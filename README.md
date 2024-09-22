@@ -12,4 +12,10 @@ Projenin çalıştırılması gereken dosyası (.ipynb) formatındadır. Dolayı
 Projede “side_effect_data 1.xlsx” adlı veri kümesi kullanılmıştır. Bu veri kümesi dizin içerisinde bulunmaktadır. 
 
 Gerekli işlemlerin tamamlanması sonucunda eksik verilerin tespiti, kategorik verilerin dönüşümü, verilerin normalizasyonu gibi çeşitli ön işleme aşamaları gerçekleştirilmiş ve makine öğrenimi modelleri için kullanıma uygun hale getirilmiştir. 
-Kütüphanelerin kurulumu kod dosyası içerisinde gerçekleştirilmektedir. 
+
+>> pip install pandas
+>> pip install matplotlib
+>> pip install seaborn
+>> pip install numpy
+>> pip install scikit-learn
+>> pip install missingno
