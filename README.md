@@ -13,4 +13,5 @@ Projede “side_effect_data 1.xlsx” adlı veri kümesi kullanılmıştır. Bu 
 
 Gerekli işlemlerin tamamlanması sonucunda eksik verilerin tespiti, kategorik verilerin dönüşümü, verilerin normalizasyonu gibi çeşitli ön işleme aşamaları gerçekleştirilmiş ve makine öğrenimi modelleri için kullanıma uygun hale getirilmiştir. 
 
+Kurulması gereken kütüphaneler bulunmaktadır:
 >> pip install pandas matplotlib seaborn numpy scikit-learn missingno
